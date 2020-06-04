@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select=""/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e81f82e4e0b3.png"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ed812b1d0de0.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ed807f87e2bb.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5ed7fcd7431fd9.31494254/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5ed93449a11e69.55880721/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sertifi"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sertifi "/>
@@ -50,7 +50,7 @@
   <param name="use.separate.relationship.toc" select="1"/>
   <param name="in.this.section.string" select="In this section"/>
   <param name="seealso.string" select="See also"/>
-  <param name="use.section.toc" select="after"/>
+  <param name="use.section.toc" select="none"/>
   <param name="taxonomies.relationship" select=""/>
   <param name="use.top.nav" select="1"/>
   <param name="external.top.nav.links" select=""/>

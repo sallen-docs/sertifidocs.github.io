@@ -1,0 +1,17 @@
+
+
+.site-sidebar .logo {
+    height: 90px;
+}
+
+.portal-header-navbar .logo {
+    height: 90px;
+}
+
+.portal-contents {
+	 display: none;
+}
+
+.featured-content-label {
+	display: none;
+}
