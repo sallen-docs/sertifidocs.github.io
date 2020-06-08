@@ -11,15 +11,15 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ed812b1d0de0.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ed807f87e2bb.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5edaa477ec4fc3.74051571/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5edead0645a966.11911994/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sertifi"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sertifi "/>
   <param name="sticky.header" select="0"/>
   <param name="full.width.header" select="0"/>
-  <param name="cookie.consent" select="0"/>
-  <param name="privacypolicy" select="/privacy"/>
-  <param name="privacypolicy" select="/privacy"/>
+  <param name="cookie.consent" select="info"/>
+  <param name="privacypolicy" select="https://corp.sertifi.com/privacy-policy/"/>
+  <param name="privacypolicy" select="https://corp.sertifi.com/privacy-policy/"/>
   <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
