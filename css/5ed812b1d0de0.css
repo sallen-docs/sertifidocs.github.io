@@ -15,17 +15,3 @@
 .featured-content-label {
 	display: none;
 }
-
-.cat-panel-1:before{
-    content: "\f040"; 
-}
-
-.cat-panel-2:before{
-    content: "\f0d6"; 
-}
-
-.cat-panel-3:before{
-    content: "\f007"; 
-}
-
-
