@@ -1,6 +1,7 @@
 
 
 
+
 .site-sidebar .logo {
     height: 90px;
 }
@@ -18,14 +19,19 @@
 }
 
 .cat-panel-1:before{
-    content: "\f0e0"; 
+    content: "\f040"; 
 }
 
 .cat-panel-2:before{
-    content: "\f0d6"; 
+    content: "\f09d"; 
 }
 
 .cat-panel-3:before{
     content: "\f007"; 
 }
+
+.td p {
+	text-align: center;
+}
+
 
