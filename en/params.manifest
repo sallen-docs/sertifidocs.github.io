@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ee24a853defa.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ed807f87e2bb.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5ee90860c7fe38.19028053/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5eea24ee1b0833.72320278/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sertifi"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sertifi "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ee8e6bc6c7f4.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5eea2472b26eb.js"/>
   <param name="create.sitemap" select="0"/>
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>

@@ -73,9 +73,9 @@ $(document).ready(function () {indexDict['en'] = [{ "title" : "eSignatures ",
 "breadcrumbs" : "Sertifi Support Site \/ Roles \/ User ", 
 "snippet" : "A Sertifi User is the most basic role level in the Sertifi portal. A user is typically an individual that signature documents are sent to for signature or payment. Anyone who receives a signature document or payment via Sertifi, can create their own user account, so they can quickly sign and submit ...", 
 "body" : "A Sertifi User is the most basic role level in the Sertifi portal. A user is typically an individual that signature documents are sent to for signature or payment. Anyone who receives a signature document or payment via Sertifi, can create their own user account, so they can quickly sign and submit a payment. Sertifi Users are can update their personal information and only view files they've signed. " }, 
-{ "title" : "Toggle Styles ", 
-"url" : "toggle-styles.html", 
-"breadcrumbs" : "Sertifi Support Site \/ Toggle Styles ", 
+{ "title" : "Toggle Interface ", 
+"url" : "toggle-interface.html", 
+"breadcrumbs" : "Sertifi Support Site \/ Toggle Interface ", 
 "snippet" : "You can switch between Sertifi Next Generation and Sertifi Classic as often as you need or want. If your portal is currently set to Sertifi Classic and you want to switch to Sertifi Next Generation, log in like you normally would using your login credentials. Click “Switch to Sertifi Next Gen” locat...", 
 "body" : "You can switch between Sertifi Next Generation and Sertifi Classic as often as you need or want. If your portal is currently set to Sertifi Classic and you want to switch to Sertifi Next Generation, log in like you normally would using your login credentials. Click “Switch to Sertifi Next Gen” located in the upper right corner of the Dashboard to start discovering the new UI. If you’d like to revert to Sertifi Classic, navigate to “My Profile” and click “Switch to Classic” within the pop-out window. " }
 ]
