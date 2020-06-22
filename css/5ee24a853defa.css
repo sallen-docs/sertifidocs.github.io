@@ -1,9 +1,6 @@
 
-
-
-
 .site-sidebar .logo {
-    height: 90px;
+    height: 150px;
 }
 
 .portal-header-navbar .logo {
@@ -33,5 +30,10 @@
 .td p {
 	text-align: center;
 }
+
+.dropdown-toggle {
+	display: none;
+}
+
 
 
