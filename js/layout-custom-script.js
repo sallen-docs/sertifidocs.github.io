@@ -15,3 +15,11 @@ $(function() {
 
 $('#search.formcontrol.sear').attr('placeholder','Search Sertifi Support Center');
 
+var imported = document.createElement('script');
+imported.src = 'https://www.googletagmanager.com/gtag/js?id=UA-170491704-1';
+document.head.appendChild(imported);
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-170491704-1);
