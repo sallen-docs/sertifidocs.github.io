@@ -27,6 +27,10 @@
     content: "\f007"; 
 }
 
+.cat-panel-4:before{
+    content: "\f042"; 
+}
+
 .td p {
 	text-align: center;
 }
