@@ -8,10 +8,13 @@ var footer = `<footer data-portal-language="en" class="portal-footer"><div class
 
 
 $(function() {
+	    var searchHolder = getElementById("search");
+	searchHolder.placeholder = "Search Sertifi Support Center";
+
     if (window.location.href.indexOf("index.html") > 0 || window.location.href.indexOf(".html") === -1) {
         $('footer').replaceWith(footer);
     }
 });
 
-$('#search.formcontrol.sear').attr('placeholder','Search Sertifi Support Center');
+
 
