@@ -11,10 +11,7 @@ $(function() {
     if (window.location.href.indexOf("index.html") > 0 || window.location.href.indexOf(".html") === -1) {
         $('footer').replaceWith(footer);
     }
-
-    var searchHolder = getElementById("search");
-	searchHolder.placeholder = "Search Sertifi Support Center";
-
 });
 
+$('#search.formcontrol.sear').attr('placeholder','Search Sertifi Support Center');
 

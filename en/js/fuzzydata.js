@@ -77,7 +77,17 @@ $(document).ready(function () {indexDict['en'] = [{ "title" : "eSignatures ",
 "url" : "toggle-interface.html", 
 "breadcrumbs" : "Sertifi Support Site \/ Toggle Interface ", 
 "snippet" : "You can switch between Sertifi Next Generation and Sertifi Classic as often as you need or want. If your portal is currently set to Sertifi Classic and you want to switch to Sertifi Next Generation, log in like you normally would using your login credentials. Click “Switch to Sertifi Next Gen” locat...", 
-"body" : "You can switch between Sertifi Next Generation and Sertifi Classic as often as you need or want. If your portal is currently set to Sertifi Classic and you want to switch to Sertifi Next Generation, log in like you normally would using your login credentials. Click “Switch to Sertifi Next Gen” located in the upper right corner of the Dashboard to start discovering the new UI. If you’d like to revert to Sertifi Classic, navigate to “My Profile” and click “Switch to Classic” within the pop-out window. " }
+"body" : "You can switch between Sertifi Next Generation and Sertifi Classic as often as you need or want. If your portal is currently set to Sertifi Classic and you want to switch to Sertifi Next Generation, log in like you normally would using your login credentials. Click “Switch to Sertifi Next Gen” located in the upper right corner of the Dashboard to start discovering the new UI. If you’d like to revert to Sertifi Classic, navigate to “My Profile” and click “Switch to Classic” within the pop-out window. " }, 
+{ "title" : "Release Notes ", 
+"url" : "release-notes.html", 
+"breadcrumbs" : "Sertifi Support Site \/ Release Notes ", 
+"snippet" : "This article contains summaries of the bug fixes, feature enhancements, and new features for each new version of Sertifi Next Generation....", 
+"body" : "This article contains summaries of the bug fixes, feature enhancements, and new features for each new version of Sertifi Next Generation. " }, 
+{ "title" : "Version 0.12 (July 2020) ", 
+"url" : "release-notes.html#UUID-5797b4c2-4823-bafa-a768-0c597731ce18_UUID-7fcf4315-46d4-82b6-f183-e23145ffebd9", 
+"breadcrumbs" : "Sertifi Support Site \/ Release Notes \/ Version 0.12 (July 2020) ", 
+"snippet" : "Previously, Admins would see the same email template when previewing emails, regardless of the group selected. This has been fixed; admins will now see the correct email template for the selected group when previewing the email before sending....", 
+"body" : "Previously, Admins would see the same email template when previewing emails, regardless of the group selected. This has been fixed; admins will now see the correct email template for the selected group when previewing the email before sending. " }
 ]
 $(document).trigger('search.ready');
 });
