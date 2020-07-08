@@ -9,9 +9,9 @@
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
   <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ef229b079a96.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ef36d1bd3760.png"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5f061cb17a166.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5efcdf93753929.13323407/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-5f061cda1fc985.21833650/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sertifi"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sertifi "/>
