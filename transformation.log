@@ -1,493 +1,493 @@
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] ############################################################
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # Output Factory initiated (html5)
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # Building output for: Sertifi Support Site
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # URL /document/edit/334
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # User: Sam Allen
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # Time: Wed, 15 Jul 2020 20:23:54 +0200
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] # Server: anderlecht
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] ############################################################
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Group: custom
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Type: html5
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Transformation: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] File found: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] ############################################################
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Building output for: html5
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Using stylesheet: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Parameters for this build: (array) []
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Environment variables for this build: (array) {"taxonomies.propagate":"1"}
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Building output for languages: (array) ["en"]
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Building multilang: no
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Building preview: no
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] ############################################################
-[15/Jul/2020 20:23:54 Europe/Stockholm] [Info] Using build directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5
-[15/Jul/2020 20:23:57 Europe/Stockholm] [Info] -- Generating source files
-[15/Jul/2020 20:23:57 Europe/Stockholm] [Info] -- Source files have been generated
-[15/Jul/2020 20:23:57 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
-[15/Jul/2020 20:23:57 Europe/Stockholm] [Info] -- Generating source files complete.
-[15/Jul/2020 20:23:58 Europe/Stockholm] [Info] Variable sets found: 0
-[15/Jul/2020 20:23:58 Europe/Stockholm] [Info] Localizing: publication-334.xml
-[15/Jul/2020 20:23:58 Europe/Stockholm] [Info] Language: en
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Inserting image links.
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Found 17 image(s).
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Found image 'new_esign_portal.png'
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Found image 'portal_no_payments.png'
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Found image 'esign_config.png'
-[15/Jul/2020 20:23:59 Europe/Stockholm] [Info] Found image 'esign_review_new.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'esig_finish.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'folder_no_payments.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'esig_view_status.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'partially_signed.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'full_signed.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'normal_profile.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'completed_profile.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'configure_sending.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'add_payment.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'add_auth.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'payment_status.png'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'toggle_current_gen.jpg'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Found image 'switch_experience.jpg'
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Profiling parameters: (array) []
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Profiling customisation: /var/www/ccms/usr/sertifi/xsl/profile.xsl (not found)
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Transformation: publication-334--en.org.xml -> publication-334--en.xml [profile.xsl]
-[15/Jul/2020 20:24:00 Europe/Stockholm] [Info] Transformation: publication-334--en.xml -> publication-334--en.xml [internal-xref.xsl]
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Created copy: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f0f49c16b1ec.xsl
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f0f49c16b1ec.index.xsl
-[15/Jul/2020 20:24:01 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f0f49c16b1ec.page.xsl
-[15-Jul-2020 20:24:02 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*, js/swagger/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'content-theme1.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'content-theme2.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'docbook.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'font-awesome.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'graphical-lists.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'mathml.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto.font.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'rwd-table.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'sm-core-css.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'sm-simple.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-api-responsive.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-api.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-common.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-index-page.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-modern-tables.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-print.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-responsive.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-single-page.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme0.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme1-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme1.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme2-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme2.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3b-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3b.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/image/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'caution.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-white.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'important.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'note.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal1-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'subheader-bg.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'warning.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/image/callouts/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '16.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '17.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '18.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '19.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '20.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '21.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '22.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '23.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '24.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '25.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '26.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '27.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '28.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '29.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '30.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: js/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'ajax-loading.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'anchorlinks.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'checklist.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'clipboard.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'cookie-consent.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'create-toc.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'csh.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fuse.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'hilitor.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-ajax.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-portal.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.fuse.search.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.event.move.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.mark.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.sticky.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'lunr-single-lang.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'lunr.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'materialize.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'mspace.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'purl.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'respond.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'responsive-tables.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'rwd-table.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'script-api.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'script.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'search.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'updateurl.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: js/jquery-3/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-3.4.1.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: fonts/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'FontAwesome.otf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: js/swagger/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'favicon-16x16.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'favicon-32x32.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'index.html'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'oauth2-redirect.html'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'paligo-swagger.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'paligo.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui-bundle.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui-bundle.js.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui-standalone-preset.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui-standalone-preset.js.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui.css.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'swagger-ui.js.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'yaml.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'content-theme1.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'content-theme2.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'docbook.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'font-awesome.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'graphical-lists.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'mathml.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto.font.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'rwd-table.min.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'sm-core-css.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'sm-simple.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-api-responsive.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-api.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-common.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-index-page.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-modern-tables.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-print.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-responsive.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style-single-page.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'style.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme0.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme1-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme1.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme2-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme2.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3b-colors.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'theme3b.css'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/image/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'caution.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-white.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'corporate-logo.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'important.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'note.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal1-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'subheader-bg.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'warning.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: css/image/callouts/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '1.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '10.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '11.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '12.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '13.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '14.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '15.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '16.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '17.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '18.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '19.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '2.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '20.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '21.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '22.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '23.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '24.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '25.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '26.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '27.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '28.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '29.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '3.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '30.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '4.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '5.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '6.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '7.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '8.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.gif'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '9.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: js/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'ajax-loading.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'anchorlinks.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'bootstrap.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'checklist.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'clipboard.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'cookie-consent.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'create-toc.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'csh.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fuse.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'hilitor.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-ajax.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2-portal.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5-2.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'html5.fuse.search.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.event.move.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.mark.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'jquery.sticky.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'lunr-single-lang.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'lunr.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'materialize.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'mspace.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'purl.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'respond.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'responsive-tables.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'rwd-table.min.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'script-api.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'script.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'search.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'updateurl.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Filename: fonts/*
-[15-Jul-2020 20:24:02 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[15-Jul-2020 20:24:02 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'FontAwesome.otf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5f061c96aee63.png' to '/paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out/css/image/corporate-logo.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5f061cb17a166.png' to '/paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out/css/image/portal-logo.png'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg' to '/paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ef1175cae27b.js' to '/paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out/js/layout-custom-script.js'
-[15-Jul-2020 20:24:02 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5edaa459229c1.ico' to '/paligo/tmp/sertifi/production-5f0f49b94d1609.86759944/334-Sertifi_Support_Site-html5/out/favicon.ico'
-[15-Jul-2020 20:24:03 Europe/Stockholm] Post build HTML5
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [html5.toc.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: dashboard-guide.html -> dashboard-guide.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: send-a-folder.html -> send-a-folder.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: folder-management.html -> folder-management.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: esignatures.html -> esignatures.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: adding-payments.html -> adding-payments.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: adding-authorizations.html -> adding-authorizations.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: check-the-status-of-a-payment.html -> check-the-status-of-a-payment.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: epayments.html -> epayments.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: super-admin.html -> super-admin.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: power-admin.html -> power-admin.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: auditor.html -> auditor.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: admin.html -> admin.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: user.html -> user.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: roles.html -> roles.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: toggle-interface.html -> toggle-interface.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: release-notes.html -> release-notes.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:03 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [5f0f49c16b1ec.page.xsl]
-[15/Jul/2020 20:24:04 Europe/Stockholm] [Info] Generating index page.
-[15/Jul/2020 20:24:04 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [5f0f49c16b1ec.index.xsl]
-[15/Jul/2020 20:24:04 Europe/Stockholm] [Info] # Took 10.300031 seconds to render.
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] ############################################################
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # Output Factory initiated (html5)
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # Building output for: Sertifi Support Site
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # URL /document/edit/334
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # User: Sam Allen
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # Time: Mon, 20 Jul 2020 16:17:58 +0200
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] # Server: bristol
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] ############################################################
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Group: custom
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Type: html5
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Transformation: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] File found: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] ############################################################
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Building output for: html5
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Using stylesheet: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Parameters for this build: (array) []
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Environment variables for this build: (array) {"taxonomies.propagate":"1"}
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Building output for languages: (array) ["en"]
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Building multilang: no
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Building preview: no
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] ############################################################
+[20/Jul/2020 16:17:58 Europe/Stockholm] [Info] Using build directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5
+[20/Jul/2020 16:17:59 Europe/Stockholm] [Info] -- Generating source files
+[20/Jul/2020 16:17:59 Europe/Stockholm] [Info] -- Source files have been generated
+[20/Jul/2020 16:17:59 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
+[20/Jul/2020 16:17:59 Europe/Stockholm] [Info] -- Generating source files complete.
+[20/Jul/2020 16:18:00 Europe/Stockholm] [Info] Variable sets found: 0
+[20/Jul/2020 16:18:00 Europe/Stockholm] [Info] Localizing: publication-334.xml
+[20/Jul/2020 16:18:00 Europe/Stockholm] [Info] Language: en
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Inserting image links.
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found 17 image(s).
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'new_esign_portal.png'
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'portal_no_payments.png'
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'esign_config.png'
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'esign_review_new.png'
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'esig_finish.png'
+[20/Jul/2020 16:18:01 Europe/Stockholm] [Info] Found image 'folder_no_payments.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'esig_view_status.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'partially_signed.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'full_signed.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'normal_profile.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'completed_profile.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'configure_sending.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'add_payment.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'add_auth.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'payment_status.png'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'new_toggle_classic.jpg'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Found image 'new_toggle_nextgen.jpg'
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Profiling parameters: (array) []
+[20/Jul/2020 16:18:02 Europe/Stockholm] [Info] Profiling customisation: /var/www/ccms/usr/sertifi/xsl/profile.xsl (not found)
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Transformation: publication-334--en.org.xml -> publication-334--en.xml [profile.xsl]
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Transformation: publication-334--en.xml -> publication-334--en.xml [internal-xref.xsl]
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Created copy: /var/www/ccms/usr/sertifi/xsl/custom/layout-395.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f15a79b88f75.xsl
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f15a79b88f75.index.xsl
+[20/Jul/2020 16:18:03 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/5f15a79b88f75.page.xsl
+[20-Jul-2020 16:18:04 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*, js/swagger/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'content-theme1.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'content-theme2.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'docbook.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'font-awesome.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'graphical-lists.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'mathml.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto.font.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'sm-core-css.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'sm-simple.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-api.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-common.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-index-page.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-print.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-responsive.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-single-page.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme0.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme1-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme1.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme2-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme2.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3b.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/image/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'caution.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'important.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'note.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'subheader-bg.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'warning.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/image/callouts/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '16.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '17.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '18.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '19.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '20.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '21.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '22.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '23.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '24.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '25.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '26.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '27.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '28.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '29.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '30.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: js/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'ajax-loading.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'anchorlinks.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'checklist.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'clipboard.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'cookie-consent.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'create-toc.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'csh.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fuse.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'hilitor.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'lunr.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'materialize.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'mspace.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'purl.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'respond.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'responsive-tables.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'script-api.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'script.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'search.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'updateurl.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: js/jquery-3/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-3.4.1.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: fonts/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: js/swagger/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'favicon-16x16.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'favicon-32x32.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'index.html'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'oauth2-redirect.html'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'paligo-swagger.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'paligo.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui-bundle.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui-bundle.js.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui-standalone-preset.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui-standalone-preset.js.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui.css.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'swagger-ui.js.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'yaml.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'content-theme1.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'content-theme2.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'docbook.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'font-awesome.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'graphical-lists.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'mathml.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto.font.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'sm-core-css.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'sm-simple.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-api.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-common.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-index-page.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-print.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-responsive.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style-single-page.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'style.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme0.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme1-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme1.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme2-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme2.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'theme3b.css'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/image/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'caution.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'important.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'note.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'subheader-bg.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'warning.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: css/image/callouts/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '1.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '10.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '11.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '12.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '13.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '14.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '15.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '16.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '17.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '18.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '19.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '2.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '20.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '21.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '22.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '23.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '24.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '25.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '26.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '27.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '28.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '29.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '3.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '30.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '4.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '5.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '6.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '7.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '8.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.gif'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '9.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: js/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'ajax-loading.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'anchorlinks.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'checklist.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'clipboard.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'cookie-consent.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'create-toc.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'csh.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fuse.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'hilitor.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5-2.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'lunr.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'materialize.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'mspace.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'purl.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'respond.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'responsive-tables.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'script-api.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'script.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'search.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'updateurl.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Filename: fonts/*
+[20-Jul-2020 16:18:04 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[20-Jul-2020 16:18:04 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5f061c96aee63.png' to '/paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out/css/image/corporate-logo.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5f061cb17a166.png' to '/paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out/css/image/portal-logo.png'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5e810e878aef9.jpg' to '/paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5ef1175cae27b.js' to '/paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out/js/layout-custom-script.js'
+[20-Jul-2020 16:18:04 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-395/5edaa459229c1.ico' to '/paligo/tmp/sertifi/production-5f15a79513a833.71412270/334-Sertifi_Support_Site-html5/out/favicon.ico'
+[20-Jul-2020 16:18:05 Europe/Stockholm] Post build HTML5
+[20/Jul/2020 16:18:05 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [html5.toc.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: dashboard-guide.html -> dashboard-guide.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: send-a-folder.html -> send-a-folder.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: folder-management.html -> folder-management.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: esignatures.html -> esignatures.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: adding-payments.html -> adding-payments.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: adding-authorizations.html -> adding-authorizations.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: check-the-status-of-a-payment.html -> check-the-status-of-a-payment.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: epayments.html -> epayments.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: super-admin.html -> super-admin.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: power-admin.html -> power-admin.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: auditor.html -> auditor.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: admin.html -> admin.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: user.html -> user.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: roles.html -> roles.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: toggle-interface.html -> toggle-interface.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: release-notes.html -> release-notes.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [5f15a79b88f75.page.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Generating index page.
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [5f15a79b88f75.index.xsl]
+[20/Jul/2020 16:18:06 Europe/Stockholm] [Info] # Took 8.703460 seconds to render.
