@@ -32,13 +32,9 @@
 				$(".mediaobject a img").removeClass('materialboxed');
 				$('.materialboxed').materialbox();
 				});
-			</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/googlecode.min.css"></link><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script><script type="text/javascript">
+			</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/googlecode.min.css"></link><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script><script type="text/javascript">
 			$(document).ready(function() {
-				/**
-				 * @type {array}
-				 */
-				var supported = hljs.listLanguages();
-
+				
 				$('pre:not(.embedcode)').each(function() {
 					/**
 					 * @type {string}
@@ -49,15 +45,7 @@
 						$(this).addClass(language).addClass('hljs');
 						return true;
 					}
-
-					if (language && $.inArray(language, supported) > -1) {
-						var c = hljs.highlight(language, $(this).text());
-						$(this)
-							.empty()
-							.append(c.value)
-							.addClass("hljs")
-							.addClass(c.language);
-					} else {
+					else {
 						hljs.highlightBlock(this);
 					}
 				});
